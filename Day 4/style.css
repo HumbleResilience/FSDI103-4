@@ -1,0 +1,32 @@
+*{
+ 
+}
+
+
+.info-container{
+    border:1px solid black;
+    width:20rem;
+    font-family: arial;
+    text-align: center;
+    
+}
+
+.info-container{
+    background-color: gray;
+    color: white;
+   
+
+}
+.spongebob img{
+    text-align: center;
+    
+}
+
+h1{
+    margin-left: 3.5rem;
+}
+
+button{
+    margin-left: 2rem;
+    padding:5px;
+}
